@@ -1,0 +1,52 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    margin: 20px;
+    padding: 20px;
+}
+
+h1 {
+    color: darkgreen;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    color: #333333;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+}
+
+form {
+    background-color: white;
+    padding: 20px;
+    border: 2px solid darkgreen;
+    border-radius: 10px;
+    max-width: 500px;
+    margin: 20px auto;
+}
+
+input, select, textarea, button {
+    font-family: Arial, sans-serif;
+    padding: 8px;
+    margin: 5px 0;
+}
+
+button {
+    background-color: darkgreen;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+a {
+    color: darkblue;
+}
